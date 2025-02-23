@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useContext } from "react";
-import ThemeContext from "../../context/themeContext";
+import ThemeContext from "../../context/ThemeContext";
 import LanguageContext from "../../context/LanguageContext";
 import { Box, Typography } from "@mui/material";
 import FacebookIcon from "@mui/icons-material/Facebook";

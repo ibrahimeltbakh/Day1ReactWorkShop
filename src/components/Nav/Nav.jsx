@@ -5,7 +5,7 @@ import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useContext, useEffect, useState } from "react";
 import IconButton from "@mui/material/IconButton";
-import ThemeContext from "../../context/themeContext";
+import ThemeContext from "../../context/ThemeContext";
 import LanguageContext from "../../context/LanguageContext";
 import { Box } from "@mui/material";
 
