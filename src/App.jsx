@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import "./App.css";
 import Nav from "./components/Nav/Nav";
-import { ThemeProvider } from "./context/themeContext";
+import { ThemeProvider } from "./context/ThemeProvider";
 import { LanguageProvider } from "./context/LanguageContext";
 import Footer from "./components/Footer/Footer";
 function App() {
